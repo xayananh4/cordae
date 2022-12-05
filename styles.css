@@ -1,8 +1,8 @@
-.flashy {
-  color: red;
-  font-style: italic;
+h2.intro {
+  color: blue;
+  font-style: oblique;
 }
 
-#best {
-  font-style: oblique;
+#unique {
+  font-style: normal;
 }
