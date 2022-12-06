@@ -1,8 +1,32 @@
-h2.intro {
-  color: blue;
+img {
+  float: right;
+}
+
+.intro {
+  color: green;
   font-style: oblique;
+}
+
+.highlight {
+  color: rebeccapurple;
+  font-style: italic;
+  font-size: 150%;
 }
 
 #unique {
   font-style: normal;
+  line-height: 100px;
+}
+
+
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: whitesmoke;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
